@@ -18,3 +18,11 @@ This tool bridges the gap between financial news and quantitative risk assessmen
 
 <<
 pip install -r requirements.txt>>
+
+
+## 🤖 **Geliştirme Süreci / Development Process**
+
+**TR:** Bu projenin kod mimarisi ve mantıksal kurgusu, bir matematikçi ve veri bilimci adayı olarak tarafımdan tasarlanmış; kod yazım süreci ise **Gemini AI** yardımıyla gerçekleştirilmiştir. Bu yaklaşım, karmaşık matematiksel modellerin hızla çalışan yazılım çözümlerine dönüştürülmesinde yapay zekanın bir "asistan" olarak kullanımını temsil eder.
+
+**EN:** The code architecture and logical framework of this project were designed by me as a mathematician and data science candidate, while the implementation process was carried out with the assistance of **Gemini AI**. This represents a "human-in-the-loop" approach where AI serves as a powerful bridge between mathematical logic and software production.
+
